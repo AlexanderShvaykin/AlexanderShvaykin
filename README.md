@@ -1,4 +1,8 @@
-### - 🔭 I’m currently working ...
+<h1 align="center"><b>Hi, I'm Shurik! 🤚</h1>
+<p align="center">
+	I am a backend software engineer. I have experience with ruby, golang and javascript. I love rails and web apps.
+</p>
+
 
 <!--
 **AlexanderShvaykin/AlexanderShvaykin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
